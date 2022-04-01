@@ -15,4 +15,4 @@ function Checkbox({ name, id, className, defaultChecked, onChange }) {
   );
 }
 
-export { Checkbox };
+export default Checkbox;

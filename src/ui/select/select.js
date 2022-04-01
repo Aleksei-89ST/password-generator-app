@@ -12,4 +12,4 @@ function Select({ options, onBlur }) {
   );
 }
 
-export { Select };
+export  default Select ;
